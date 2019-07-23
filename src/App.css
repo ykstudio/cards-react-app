@@ -31,3 +31,11 @@
     transform: rotate(360deg);
   }
 }
+
+.cards {
+  display: flex;
+  flex-direction: row;
+}
+.ui.card{
+  margin: 1em !important;
+}
